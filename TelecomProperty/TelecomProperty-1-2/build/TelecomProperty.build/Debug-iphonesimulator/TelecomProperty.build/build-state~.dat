@@ -1,0 +1,3414 @@
+TTelecomProperty
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Info.plist TelecomProperty/TelecomProperty-Info.plist
+cProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-emxxhltrshzsiugsxlifcenfntgo/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/pinyin.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/pinyin.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewCell.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoginViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RestaurantViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RestaurantViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/main.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c00000000513E6A100000000000000110
+t1363044880
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c0000000051547B2900000000003D4DF0
+t1364491049
+s4017648
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000051547B2A0000000000215DB0
+t1364491050
+s2186672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051547B2B0000000000228FE0
+t1364491051
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreMotion.framework/CoreMotion
+c0000000051547B2B00000000000FB1E0
+t1364491051
+s1028576
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreTelephony.framework/CoreTelephony
+c0000000051547B2B00000000000FD530
+t1364491051
+s1037616
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000051547B2C00000000000F62E0
+t1364491052
+s1008352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051547B2C00000000003DDFA0
+t1364491052
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051547B2C00000000000015F7
+t1364491052
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c0000000051547B310000000000114570
+t1364491057
+s1131888
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c0000000051547B3100000000000BCC20
+t1364491057
+s773152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000051547B3200000000001D5750
+t1364491058
+s1922896
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000051547B33000000000006CC50
+t1364491059
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051547B330000000000000E8D
+t1364491059
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051547B350000000000AB6230
+t1364491061
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051547B420000000000001B73
+t1364491074
+s7027
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/lib/libxml2.dylib
+c0000000051547B440000000000128820
+t1364491076
+s1214496
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/lib/libz.1.2.5.dylib
+c0000000051547B440000000000013500
+t1364491076
+s79104
+
+N/Users/hh/Desktop/TelecomProperty-1-2/Default-568h@2x.png
+c000000005142CD7D0000000000069E70
+t1363332477
+s433776
+
+N/Users/hh/Desktop/TelecomProperty-1-2/Default.png
+c000000005153D5ED0000000000068B3C
+t1364448749
+s428860
+
+N/Users/hh/Desktop/TelecomProperty-1-2/Icon.png
+c000000005142D6B60000000000001754
+t1363334838
+s5972
+
+N/Users/hh/Desktop/TelecomProperty-1-2/SDImageCache.m
+c0000000051764E2E0000000000002EB4
+t1366707758
+s11956
+
+N/Users/hh/Desktop/TelecomProperty-1-2/SDWebImageDownloader.m
+c000000004E9CCDB800000000000014E4
+t1318899128
+s5348
+
+N/Users/hh/Desktop/TelecomProperty-1-2/SDWebImageManager.m
+c000000005174A0540000000000001A6E
+t1366597716
+s6766
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/../GDataXMLNode.m
+c00000000513C8F71000000000000C907
+t1362923377
+s51463
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AOImageView.m
+c000000005170FC6A000000000000090C
+t1366359146
+s2316
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AOScrollerView.m
+c0000000051777F540000000000000D47
+t1366785876
+s3399
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIAuthenticationDialog.m
+c00000000502076A80000000000003E08
+t1344304808
+s15880
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASICacheDelegate.h
+c00000000502076A8000000000000141F
+t1344304808
+s5151
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDataCompressor.m
+c00000000514BD1AB0000000000001A62
+t1363923371
+s6754
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDataDecompressor.m
+c00000000514D45EA0000000000001927
+t1364018666
+s6439
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDownloadCache.m
+c00000000502076A80000000000004561
+t1344304808
+s17761
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIFormDataRequest.h
+c00000000502076A80000000000000A85
+t1344304808
+s2693
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIFormDataRequest.m
+c00000000502076A80000000000002C02
+t1344304808
+s11266
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIHTTPRequest.h
+c00000000502076A8000000000000AFE9
+t1344304808
+s45033
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIHTTPRequest.m
+c0000000050A04D62000000000002CF7B
+t1352682850
+s184187
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIHTTPRequestConfig.h
+c00000000502076A80000000000000511
+t1344304808
+s1297
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIHTTPRequestDelegate.h
+c00000000502076A8000000000000063E
+t1344304808
+s1598
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIInputStream.m
+c00000000502076A80000000000000C32
+t1344304808
+s3122
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASINetworkQueue.m
+c00000000502076A80000000000002C8D
+t1344304808
+s11405
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIProgressDelegate.h
+c00000000502076A80000000000000678
+t1344304808
+s1656
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Announcements.m
+c000000005153C1A200000000000000D1
+t1364443554
+s209
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AppDelegate.m
+c00000000517B51490000000000001D3F
+t1367036233
+s7487
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AsyncImageView.m
+c00000000517988BC000000000000132D
+t1366919356
+s4909
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AttributedLabel.m
+c00000000512327620000000000000A72
+t1361258338
+s2674
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/BubbleMessageCell.m
+c00000000514573860000000000000D68
+t1363506054
+s3432
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/BubbleView.m
+c00000000514574E90000000000001303
+t1363506409
+s4867
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CPTextViewPlaceholder.m
+c00000000518017170000000000000A60
+t1367349015
+s2656
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell.m
+c00000000517C0FB700000000000004E1
+t1367084983
+s1249
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell.xib
+c00000000517C0F880000000000003E39
+t1367084936
+s15929
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell1.m
+c000000005145E6C600000000000002D5
+t1363535558
+s725
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell1.xib
+c00000000516666B60000000000002836
+t1365665462
+s10294
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell2.m
+c0000000051668C7C00000000000002FF
+t1365675132
+s767
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell2.xib
+c00000000516E07160000000000002973
+t1366165270
+s10611
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CenterViewController.m
+c000000005180253C00000000000040F3
+t1367352636
+s16627
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CharacterSetViewController.m
+c00000000517CFA750000000000004875
+t1367145077
+s18549
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChatCustomCell.m
+c00000000514678D80000000000000235
+t1363572952
+s565
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChatCustomCell.xib
+c00000000513E02EB0000000000003268
+t1363018475
+s12904
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChatViewController.m
+c0000000051665B150000000000004D93
+t1365662485
+s19859
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChineseToPinyin.m
+c00000000517581840000000000019A23
+t1366655364
+s104995
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CommunityListViewController.m
+c00000000517CF91900000000000035FD
+t1367144729
+s13821
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CommunityViewController.m
+c0000000051619B860000000000006A09
+t1365351302
+s27145
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ContactModel.m
+c000000005175818400000000000002B8
+t1366655364
+s696
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CusotomViewController.m
+c00000000516EA7E1000000000000148A
+t1366206433
+s5258
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DDList.m
+c00000000516F593700000000000013FF
+t1366251831
+s5119
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DRUserDefaultsManager.m
+c0000000050E98C6B0000000000001CB9
+t1357483115
+s7353
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Default-568h@2x11.png
+c0000000050748B2300000000000048A2
+t1349815075
+s18594
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Default@2x.png
+c0000000050748B230000000000003EEB
+t1349815075
+s16107
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DejalActivityView.m
+c000000004FA0A3BC000000000000647D
+t1335927740
+s25725
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DemoViewController.m
+c0000000051456D900000000000000B94
+t1363504528
+s2964
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DescriptionphotoViewController.m
+c00000000518090B50000000000001C04
+t1367380149
+s7172
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DetailViewController.m
+c00000000516ECA970000000000000CB0
+t1366215319
+s3248
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DownAccessory1.png
+c000000005121A4E700000000000000B3
+t1361159399
+s179
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/EGORefreshTableHeaderView.m
+c00000000515298B600000000000020D0
+t1364367542
+s8400
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/EncapsulationASI.h
+c00000000518090B500000000000007FF
+t1367380149
+s2047
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/EncapsulationASI.m
+c00000000518090B500000000000015C6
+t1367380149
+s5574
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/FirstViewController.m
+c00000000517C1456000000000000731B
+t1367086166
+s29467
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GameTopUpViewController.m
+c00000000516EA6F000000000000008E6
+t1366206192
+s2278
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GarageViewController.m
+c00000000517A28550000000000000D3F
+t1366960213
+s3391
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GasViewController.m
+c00000000516EAF2800000000000008A8
+t1366208296
+s2216
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GoodFriendViewController.m
+c00000000515478CA00000000000014D4
+t1364490442
+s5332
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HPGrowingTextView.m
+c000000004EE821BE0000000000003CB1
+t1323835838
+s15537
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HPTextViewInternal.m
+c00000000514666850000000000000B63
+t1363568261
+s2915
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Harpy.m
+c00000000515A724700000000000015A1
+t1364881991
+s5537
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HeadView.m
+c00000000516EC89B000000000000063A
+t1366214811
+s1594
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageListCache.m
+c00000000502076A80000000000000777
+t1344304808
+s1911
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageManager.m
+c000000005029CB3E0000000000001371
+t1344916286
+s4977
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageViewCell.m
+c0000000051682CC90000000000000A6C
+t1365781705
+s2668
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformDetailsViewController.m
+c00000000517C79FD0000000000000F31
+t1367112189
+s3889
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformationViewController.m
+c00000000517CF9190000000000005F4F
+t1367144729
+s24399
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/JHTickerView.m
+c00000000517760900000000000001545
+t1366778000
+s5445
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/JSONKit.m
+c000000005147FAAF000000000002B471
+t1363671727
+s177265
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoadMoreTableFooterView.m
+c00000000515298F90000000000001745
+t1364367609
+s5957
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoginViewController.m
+c00000000517CBDED00000000000031A5
+t1367129581
+s12709
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MBProgressHUD.h
+c00000000518020260000000000003603
+t1367351334
+s13827
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MBProgressHUD.m
+c00000000517CC6E30000000000005DD7
+t1367131875
+s24023
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MainViewController.m
+c00000000516EAF570000000000002C00
+t1366208343
+s11264
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageEntryBackground.png
+c000000004EE821BE00000000000000B5
+t1323835838
+s181
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageEntryBackground@2x.png
+c000000004EE821BE0000000000000112
+t1323835838
+s274
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageEntryInputField.png
+c000000004EE821BE000000000000054C
+t1323835838
+s1356
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageEntryInputField@2x.png
+c000000004EE821BE0000000000000C69
+t1323835838
+s3177
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageEntrySendButton.png
+c000000004EE821BE000000000000040D
+t1323835838
+s1037
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageEntrySendButton@2x.png
+c000000004EE821BE00000000000009A2
+t1323835838
+s2466
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageEntrySendButtonPressed.png
+c000000004EE821BE00000000000003F0
+t1323835838
+s1008
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageEntrySendButtonPressed@2x.png
+c000000004EE821BE000000000000093D
+t1323835838
+s2365
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageInputView.m
+c00000000513D3884000000000000189E
+t1362966660
+s6302
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageSoundEffect.m
+c000000005168270E0000000000000879
+t1365780238
+s2169
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessagesViewController.m
+c0000000051457CD90000000000002BAC
+t1363508441
+s11180
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MoreViewController.m
+c00000000517A57BE0000000000002013
+t1366972350
+s8211
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MulticastDelegate.m
+c00000000502076A80000000000002EE9
+t1344304808
+s12009
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyBusinessCardViewController.m
+c00000000517A5667000000000000551D
+t1366972007
+s21789
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyDynamicViewController.m
+c00000000517A5AE400000000000064C4
+t1366973156
+s25796
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyProfileViewController.m
+c00000000518020E90000000000005BC5
+t1367351529
+s23493
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MySuggestionViewController.m
+c00000000517A5668000000000000458D
+t1366972008
+s17805
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSObject+SBJSON.m
+c000000005147FAAF000000000000089E
+t1363671727
+s2206
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSString+MessagesView.m
+c000000005168270E0000000000000651
+t1365780238
+s1617
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSString+SBJSON.m
+c000000005147FAAF000000000000087D
+t1363671727
+s2173
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSURLAdditions.m
+c000000004F4F190A00000000000002A9
+t1330583818
+s681
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NewUserViewController.m
+c000000005176278100000000000019B1
+t1366697857
+s6577
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NoteView.m
+c00000000512188B800000000000006A0
+t1361152184
+s1696
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Notification.plist
+c00000000517C173000000000000001FE
+t1367086896
+s510
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NumberKnowledgeablePersonViewController.m
+c00000000516EA6F00000000000000924
+t1366206192
+s2340
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/OpenUDID-master/OpenUDID.m
+c0000000050564E500000000000004D9A
+t1347833424
+s19866
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/OpenUDID-master/README.md
+c0000000050564E500000000000000E5E
+t1347833424
+s3678
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/People.m
+c000000005145D9C400000000000000BE
+t1363532228
+s190
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PhraseViewController.m
+c0000000051665B1500000000000011CA
+t1365662485
+s4554
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PhraseViewController.xib
+c00000000513EF8220000000000002118
+t1363081250
+s8472
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PhysicalNavigationViewController.m
+c00000000516EA6F00000000000000907
+t1366206192
+s2311
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/QueryViewController.m
+c00000000516EA6F00000000000000909
+t1366206192
+s2313
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RTImage.m
+c00000000517A0368000000000000054C
+t1366950760
+s1356
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Reachability.m
+c00000000514BD1AB0000000000005DB5
+t1363923371
+s23989
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RegisteredUsersViewController.m
+c00000000516CAD3C0000000000003876
+t1366076732
+s14454
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ReservationViewController.m
+c00000000516EA6EF00000000000008E9
+t1366206191
+s2281
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ResidentialIntroducedViewController.m
+c00000000517500AB000000000000136A
+t1366622379
+s4970
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/input-bar.png
+c00000000513D38840000000000000150
+t1362966660
+s336
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/input-bar@2x.png
+c00000000513D388400000000000001C8
+t1362966660
+s456
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/input-field.png
+c00000000513D38840000000000000519
+t1362966660
+s1305
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/input-field@2x.png
+c00000000513D38840000000000000D33
+t1362966660
+s3379
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/messageBubbleBlue.png
+c00000000513D388400000000000010E9
+t1362966660
+s4329
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/messageBubbleBlue@2x.png
+c00000000513D38840000000000001E9B
+t1362966660
+s7835
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/messageBubbleGray.png
+c00000000513D38840000000000001058
+t1362966660
+s4184
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/messageBubbleGray@2x.png
+c00000000513D38840000000000001A5D
+t1362966660
+s6749
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/messageBubbleHighlighted.png
+c00000000513D38840000000000001119
+t1362966660
+s4377
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/messageBubbleHighlighted@2x.png
+c00000000513D38840000000000002052
+t1362966660
+s8274
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/messageBubbleTyping.png
+c00000000513D388400000000000011E8
+t1362966660
+s4584
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/messageBubbleTyping@2x.png
+c00000000513D38840000000000001EDB
+t1362966660
+s7899
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/send-highlighted.png
+c00000000513D38840000000000000EE0
+t1362966660
+s3808
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/send-highlighted@2x.png
+c00000000513D38840000000000001633
+t1362966660
+s5683
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/send.png
+c00000000513D38840000000000000F10
+t1362966660
+s3856
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Images/send@2x.png
+c00000000513D388400000000000016F9
+t1362966660
+s5881
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Sounds/messageReceived.aiff
+c00000000513D3884000000000000A9BE
+t1362966660
+s43454
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Resources/Sounds/messageSent.aiff
+c00000000513D38840000000000009EA8
+t1362966660
+s40616
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RestaurantViewController.m
+c00000000516EA6F000000000000008EA
+t1366206192
+s2282
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJSON.m
+c000000005147FAAF0000000000001ABC
+t1363671727
+s6844
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonBase.m
+c000000005147FAAF0000000000000AC1
+t1363671727
+s2753
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonParser.m
+c000000005147FAAF00000000000036D0
+t1363671727
+s14032
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonWriter.m
+c000000005147FAAF0000000000001F26
+t1363671727
+s7974
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SZJsonParser.m
+c00000000514BC98500000000000030B1
+t1363921285
+s12465
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SearthViewController.m
+c00000000516EA6EF00000000000008D5
+t1366206191
+s2261
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Section.m
+c0000000050AC86320000000000000E21
+t1353483826
+s3617
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SectionABC.m
+c00000000513FD60A00000000000011B2
+t1363138058
+s4530
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/String.m
+c0000000050AC9BCE00000000000000E9
+t1353489358
+s233
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/TelecomProperty-Prefix.pch
+c000000005178E5D2000000000000022D
+t1366877650
+s557
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"EncapsulationASI.h"
+i"MBProgressHUD.h"
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridView.m
+c0000000051773B240000000000000F2E
+t1366768420
+s3886
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewCell.m
+c00000000516B6F48000000000000019A
+t1365995336
+s410
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewRow.m
+c000000005107745F0000000000000212
+t1359443039
+s530
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIView+AnimationOptionsForCurve.m
+c00000000513D388400000000000007C2
+t1362966660
+s1986
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UpAccessory1.png
+c000000005121A4E700000000000000BD
+t1361159399
+s189
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlAddress.m
+c0000000051637AE200000000000000C8
+t1365474018
+s200
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlImageButton.m
+c00000000517C0D740000000000000C1A
+t1367084404
+s3098
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlImageView.m
+c000000005170BECA0000000000000B91
+t1366343370
+s2961
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WaterFlowView.m
+c000000005180220A00000000000018E3
+t1367351818
+s6371
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WaterFlowViewCell.m
+c000000005167BBA900000000000003B6
+t1365752745
+s950
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WingToPayViewController.m
+c00000000516EA6F000000000000008E4
+t1366206192
+s2276
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/YellowPagesViewController.m
+c00000000516EAF2800000000000008C5
+t1366208296
+s2245
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Zhongwenpaixu.m
+c00000000513FD0EC0000000000001071
+t1363136748
+s4209
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/blueArrow.png
+c000000004EB0D790000000000000054D
+t1320212368
+s1357
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/blueArrow@2x.png
+c000000004EB0D79000000000000004BC
+t1320212368
+s1212
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/en.lproj/InfoPlist.strings
+c00000000513C88D1000000000000002D
+t1362921681
+s45
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m
+c00000000516E7383000000000000015A
+t1366193027
+s346
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/map.png
+c000000005174919700000000000143B8
+t1366593943
+s82872
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/myimage.png
+c00000000514903410000000000001AC6
+t1363739457
+s6854
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/pinyin.c
+c00000000501B4CCE00000000000055CD
+t1343966414
+s21965
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/temp0326/call.png
+c00000000510895B6000000000000058C
+t1359517110
+s1420
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/temp0326/gold.jpg
+c000000005151005C000000000000A880
+t1364263004
+s43136
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/temp0326/hb.png
+c00000000515A51C5000000000000186E
+t1364873669
+s6254
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/temp0326/nav.png
+c0000000050F514160000000000001245
+t1358238742
+s4677
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/temp0326/qbi.png
+c000000005151001E0000000000005F4E
+t1364262942
+s24398
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/temp0326/total.png
+c000000005111EE54000000000000A89E
+t1360129620
+s43166
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/zh-Hans.lproj/InfoPlist.strings
+c00000000513C88D1000000000000002D
+t1362921681
+s45
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/../myadvice.png
+c00000000516A8D6C0000000000001233
+t1365937516
+s4659
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/../mymaterial.png
+c00000000516A8D380000000000001176
+t1365937464
+s4470
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/../mymessage.png
+c00000000516A8D4E00000000000011B6
+t1365937486
+s4534
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/../企业黄页.png
+c00000000516D4727000000000000107F
+t1366116135
+s4223
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/../水电煤缴费.png
+c00000000516D4729000000000000191D
+t1366116137
+s6429
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/../消息条数.png
+c00000000515EBC0A000000000000050F
+t1365163018
+s1295
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/../车库信息.png
+c00000000516D472A0000000000001705
+t1366116138
+s5893
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/DownAccessory.png
+c00000000515ED7F800000000000001E5
+t1365170168
+s485
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/UpAccessory.png
+c00000000515ED81800000000000001B4
+t1365170200
+s436
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/1-1.png
+c00000000515E87AA0000000000001EE1
+t1365149610
+s7905
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/1-2.png
+c00000000515E87B400000000000013EE
+t1365149620
+s5102
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/1-3.png
+c00000000515E87BC0000000000001302
+t1365149628
+s4866
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/1-4.png
+c00000000515E87C8000000000000126D
+t1365149640
+s4717
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/1-5.png
+c00000000515E87D20000000000001690
+t1365149650
+s5776
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/1-6.png
+c00000000515E87DA0000000000001326
+t1365149658
+s4902
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/1-7.png
+c00000000515E87E200000000000012A3
+t1365149666
+s4771
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/select1.png
+c00000000515E89CC0000000000001763
+t1365150156
+s5987
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/select2.png
+c00000000515E89EA0000000000001C30
+t1365150186
+s7216
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/select3.png
+c00000000515E8A000000000000001E6C
+t1365150208
+s7788
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/select4.png
+c00000000515E8A1400000000000014F0
+t1365150228
+s5360
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/tabbar1.png
+c00000000515E89820000000000000B81
+t1365150082
+s2945
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/tabbar2.png
+c00000000515E89980000000000000FCE
+t1365150104
+s4046
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/tabbar3.png
+c00000000515E89A400000000000011FE
+t1365150116
+s4606
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/tabbar4.png
+c00000000515E89B4000000000000092C
+t1365150132
+s2348
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/小首页3.png
+c00000000516D36FB00000000000009DC
+t1366111995
+s2524
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/图标/底部图标.fw.png
+c00000000515E896C000000000001A027
+t1365150060
+s106535
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/弹出窗顶部.png
+c00000000515ED96E00000000000004F2
+t1365170542
+s1266
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/按钮右.png
+c00000000515ECF980000000000000568
+t1365168024
+s1384
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/按钮左.png
+c00000000515ECF5A00000000000005B1
+t1365167962
+s1457
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/注册按钮.9.png
+c00000000515EC970000000000000021C
+t1365166448
+s540
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/消息条数.png
+c00000000515EBC0A000000000000050F
+t1365163018
+s1295
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/走马灯背景.png
+c00000000515ED48C0000000000000EEB
+t1365169292
+s3819
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/顶部.png
+c00000000515EC1D800000000000002ED
+t1365164504
+s749
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/元件/顶部2.png
+c00000000515ED9C000000000000004BF
+t1365170624
+s1215
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/内线.png
+c000000005146BFBE00000000000003AC
+t1363591102
+s940
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/小首页1.png
+c00000000516210FA0000000000000442
+t1365381370
+s1090
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/小首页2.png
+c00000000516210D200000000000006F7
+t1365381330
+s1783
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/小首页34444.png
+c00000000516210A80000000000000974
+t1365381288
+s2420
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/小首页4.png
+c000000005162108A00000000000003C8
+t1365381258
+s968
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/底条.png
+c000000005161750E0000000000000414
+t1365341454
+s1044
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/按下1.png
+c00000000516174C30000000000000EA8
+t1365341379
+s3752
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/注册按钮.png
+c00000000516D36FF00000000000002BD
+t1366111999
+s701
+
+N/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/线加圆/btn_on.png
+c000000005051AC4A000000000000009E
+t1347529802
+s158
+
+N/Users/hh/Desktop/TelecomProperty-1-2/UIImageView+WebCache.m
+c000000005170BEC900000000000004C9
+t1366343369
+s1225
+
+N/Users/hh/Desktop/TelecomProperty-1-2/btn_check_off.png
+c000000004C931278000000000000014B
+t1284706936
+s331
+
+N/Users/hh/Desktop/TelecomProperty-1-2/btn_check_off_pressed.png
+c000000004C931278000000000000022D
+t1284706936
+s557
+
+N/Users/hh/Desktop/TelecomProperty-1-2/btn_check_on.png
+c000000004C9312780000000000000368
+t1284706936
+s872
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app.dSYM
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/1-1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/1-2.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/1-3.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/1-4.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/1-5.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/1-6.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/1-7.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Cell.nib
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Cell1.nib
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Cell2.nib
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/ChatCustomCell.nib
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Default-568h@2x11.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Default.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Default@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/DownAccessory.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/DownAccessory1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Icon.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Info.plist
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/MessageEntryBackground.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/MessageEntryBackground@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/MessageEntryInputField.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/MessageEntryInputField@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/MessageEntrySendButton.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/MessageEntrySendButton@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/MessageEntrySendButtonPressed.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/MessageEntrySendButtonPressed@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Notification.plist
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/PhraseViewController.nib
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/PkgInfo
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/README.md
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/TelecomProperty
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/UpAccessory.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/UpAccessory1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/backimage.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/backlogin.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/blueArrow.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/blueArrow@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/btn_check_off.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/btn_check_off_pressed.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/btn_check_on.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/btn_on.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/call.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/default_picture.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/deng.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/fu.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/gold.jpg
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/hb.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/input-bar.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/input-bar@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/input-field.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/input-field@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/jianpan.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/liu.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/login.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/map.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleBlue.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleBlue@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleGray.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleGray@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleHighlighted.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleHighlighted@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleTyping.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleTyping@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageReceived.aiff
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/messageSent.aiff
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/myadvice.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/myimage.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/mymaterial.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/mymessage.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/nav.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/qbi.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/select1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/select2.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/select3.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/select4.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/send-highlighted.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/send-highlighted@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/send.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/send@2x.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/tabBar.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/tabbar1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/tabbar2.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/tabbar3.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/tabbar4.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/top.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/total.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/zh-Hans.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/企业黄页.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/内线.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/号码.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/小首页1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/小首页2.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/小首页3.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/小首页34444.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/小首页4.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/底条.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/底部图标.fw.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/弹出窗顶部.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/意见输入框.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/我的小区精简版1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/按下1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/按钮右.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/按钮左.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/水电煤缴费.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/注册按钮.9.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/注册按钮.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/消息条数.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/登陆.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/绿色横条.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/绿色横条1.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/背景图3.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/背景图4.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/背景大图2.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/背景色预备.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/走马灯背景.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/车库信息.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/顶部.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/顶部2.png
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AOImageView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AOScrollerView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIDataCompressor.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIDataDecompressor.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIDownloadCache.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIFormDataRequest.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIHTTPRequest.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIInputStream.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASINetworkQueue.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Announcements.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AsyncImageView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AttributedLabel.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/BubbleMessageCell.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/BubbleView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CPTextViewPlaceholder.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Cell.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Cell1.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Cell2.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CenterViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CharacterSetViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ChatCustomCell.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ChatViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ChineseToPinyin.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CommunityListViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CommunityViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ContactModel.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CusotomViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DDList.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DRUserDefaultsManager.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DejalActivityView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DemoViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DescriptionphotoViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DetailViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/EGORefreshTableHeaderView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/EncapsulationASI.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/FirstViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GDataXMLNode.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GameTopUpViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GarageViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GasViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GoodFriendViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/HPGrowingTextView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/HPTextViewInternal.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Harpy.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/HeadView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ImageListCache.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ImageManager.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ImageViewCell.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/InformDetailsViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/InformationViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/JHTickerView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/JSONKit.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoadMoreTableFooterView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoginViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MBProgressHUD.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MainViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MessageInputView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MessageSoundEffect.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MessagesViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MoreViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MulticastDelegate.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MyBusinessCardViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MyDynamicViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MyProfileViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MySuggestionViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NSObject+SBJSON.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NSString+MessagesView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NSString+SBJSON.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NSURLAdditions.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NewUserViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NoteView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NumberKnowledgeablePersonViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/OpenUDID.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/People.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/PhraseViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/PhysicalNavigationViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/QueryViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RTImage.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Reachability.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RegisteredUsersViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ReservationViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ResidentialIntroducedViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RestaurantViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SBJSON.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SBJsonBase.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SBJsonParser.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SBJsonWriter.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SDImageCache.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SDWebImageDownloader.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SDWebImageManager.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SZJsonParser.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SearthViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Section.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SectionABC.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/String.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/TelecomProperty.LinkFileList
+c00000000518090B60000000000004175
+t1367380150
+s16757
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewCell.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewRow.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIImageView+WebCache.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIView+AnimationOptionsForCurve.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UrlAddress.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UrlImageButton.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UrlImageView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/WaterFlowView.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/WaterFlowViewCell.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/WingToPayViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/YellowPagesViewController.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Zhongwenpaixu.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/pinyin.o
+t2
+s0
+
+N/Users/hh/Desktop/TelecomProperty-1-2/default_picture.png
+c000000005029962E000000000000275A
+t1344902702
+s10074
+
+N/Users/hh/Desktop/TelecomProperty-1-2/deng.png
+c000000005145DF160000000000000DC3
+t1363533590
+s3523
+
+N/Users/hh/Desktop/TelecomProperty-1-2/fu.png
+c000000005145DF500000000000001245
+t1363533648
+s4677
+
+N/Users/hh/Desktop/TelecomProperty-1-2/jianpan.png
+c000000004EF9A8E2000000000000015B
+t1324984546
+s347
+
+N/Users/hh/Desktop/TelecomProperty-1-2/liu.png
+c000000005145DF460000000000001718
+t1363533638
+s5912
+
+N/Users/hh/Desktop/TelecomProperty-1-2/login.png
+c000000005140124900000000000001F0
+t1363153481
+s496
+
+N/Users/hh/Desktop/TelecomProperty-1-2/意见输入框.png
+c000000004EF99AD20000000000001003
+t1324980946
+s4099
+
+N/Users/hh/Desktop/TelecomProperty-1-2/我的小区精简版1.png
+c00000000514047B700000000000010C7
+t1363167159
+s4295
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/backlogin.png
+c00000000513FD72D0000000000009C36
+t1363138349
+s39990
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/top.png
+c00000000513FD72D0000000000004CE7
+t1363138349
+s19687
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/号码.png
+c00000000513FD72D00000000000011A0
+t1363138349
+s4512
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/登陆.png
+c00000000513FD72D0000000000001758
+t1363138349
+s5976
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/绿色横条.png
+c00000000513FD72D0000000000000C83
+t1363138349
+s3203
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/背景图3.png
+c00000000513FE7570000000000001583
+t1363142487
+s5507
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/背景图4.png
+c00000000513FE88600000000000015DA
+t1363142790
+s5594
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/背景大图2.png
+c00000000513FE4EB0000000000009DAA
+t1363141867
+s40362
+
+N/Users/hh/Desktop/TelecomProperty-1-2/登陆界面板块/背景色预备.png
+c00000000513FD72D0000000000003F06
+t1363138349
+s16134
+
+N/Users/hh/Desktop/TelecomProperty-1-2/绿色横条1.png
+c00000000514047B800000000000001FE
+t1363167160
+s510
+
+N/Users/hh/Desktop/TelecomProperty-1-2/背景图/backimage.png
+c0000000051540C060000000000003CF6
+t1364462598
+s15606
+
+N/Users/hh/Desktop/TelecomProperty-1-2/背景图/tabBar.png
+c00000000513E7EEF0000000000000163
+t1363050223
+s355
+
+N/var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-emxxhltrshzsiugsxlifcenfntgo/TelecomProperty-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch.pth
+t2
+s0
+
+NTelecomProperty/TelecomProperty-Info.plist
+c000000005178D7C600000000000004F7
+t1366874054
+s1271
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/SDImageCache.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/SDWebImageDownloader.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/SDWebImageManager.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/../GDataXMLNode.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AOImageView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AOScrollerView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIAuthenticationDialog.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDataCompressor.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDataDecompressor.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDownloadCache.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIFormDataRequest.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIHTTPRequest.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIInputStream.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASINetworkQueue.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Announcements.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AppDelegate.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AsyncImageView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AttributedLabel.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/BubbleMessageCell.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/BubbleView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CPTextViewPlaceholder.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell1.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell2.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CenterViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CharacterSetViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChatCustomCell.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChatViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChineseToPinyin.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CommunityListViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CommunityViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ContactModel.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CusotomViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DDList.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DRUserDefaultsManager.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DejalActivityView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DemoViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DescriptionphotoViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DetailViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/EGORefreshTableHeaderView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/EncapsulationASI.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/FirstViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GameTopUpViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GarageViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GasViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GoodFriendViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HPGrowingTextView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HPTextViewInternal.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Harpy.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HeadView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageListCache.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageManager.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageViewCell.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformDetailsViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformationViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/JHTickerView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/JSONKit.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoadMoreTableFooterView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoginViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MBProgressHUD.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MainViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageInputView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageSoundEffect.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessagesViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MoreViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MulticastDelegate.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyBusinessCardViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyDynamicViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyProfileViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MySuggestionViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSObject+SBJSON.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSString+MessagesView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSString+SBJSON.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSURLAdditions.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NewUserViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NoteView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NumberKnowledgeablePersonViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/OpenUDID-master/OpenUDID.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/People.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PhraseViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PhysicalNavigationViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/QueryViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RTImage.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Reachability.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RegisteredUsersViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ReservationViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ResidentialIntroducedViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RestaurantViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJSON.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonBase.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonParser.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonWriter.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SZJsonParser.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SearthViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Section.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SectionABC.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/String.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewCell.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewRow.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIView+AnimationOptionsForCurve.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlAddress.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlImageButton.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlImageView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WaterFlowView.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WaterFlowViewCell.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WingToPayViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/YellowPagesViewController.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Zhongwenpaixu.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/pinyin.c
+r0
+
+CBuild AST from /Users/hh/Desktop/TelecomProperty-1-2/UIImageView+WebCache.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesecf89b35c830b741^e9655036c830b741^-152"Warning: Multiple build commands for output file /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/消息条数.png1(21%IDEActivityLogMessage2@151"Warning: Multiple build commands for output file /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/消息条数.png-389072950#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#0#--18"Check dependencies36"F2A7A368-9AA8-489E-A7DC-EB95E0D0AA2D-
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AOImageView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AOImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AOScrollerView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AOScrollerView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIDataCompressor.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIDataDecompressor.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIDownloadCache.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIFormDataRequest.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIHTTPRequest.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASIInputStream.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASIInputStream.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ASINetworkQueue.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Announcements.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Announcements.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AppDelegate.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AsyncImageView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AsyncImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/AttributedLabel.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AttributedLabel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/BubbleMessageCell.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/BubbleMessageCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/BubbleView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/BubbleView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CPTextViewPlaceholder.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CPTextViewPlaceholder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Cell.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Cell1.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell1.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Cell2.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell2.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CenterViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CenterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CharacterSetViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CharacterSetViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ChatCustomCell.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChatCustomCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ChatViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChatViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ChineseToPinyin.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChineseToPinyin.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CommunityListViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CommunityListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CommunityViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CommunityViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ContactModel.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ContactModel.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/CusotomViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/CusotomViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DDList.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DDList.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DRUserDefaultsManager.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DRUserDefaultsManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DejalActivityView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DejalActivityView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DemoViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DemoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DescriptionphotoViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DescriptionphotoViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/DetailViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/EGORefreshTableHeaderView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/EGORefreshTableHeaderView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/EncapsulationASI.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/EncapsulationASI.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/FirstViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/FirstViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GDataXMLNode.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/../GDataXMLNode.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GameTopUpViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GameTopUpViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GarageViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GarageViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GasViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GasViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/GoodFriendViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/GoodFriendViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/HPGrowingTextView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HPGrowingTextView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/HPTextViewInternal.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HPTextViewInternal.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Harpy.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Harpy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/HeadView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HeadView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ImageListCache.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageListCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ImageManager.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ImageViewCell.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/InformDetailsViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformDetailsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/InformationViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/JHTickerView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/JHTickerView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/JSONKit.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/JSONKit.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoadMoreTableFooterView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoadMoreTableFooterView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoginViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389072951.199609
+e389072951.480148
+r1
+xCompileC
+xbuild/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoginViewController.o
+x/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoginViewController.mca523337c830b741^35f17a37c830b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoginViewController.m0000000000000000^3549"CompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoginViewController.o TelecomProperty/LoginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-generated-files.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-own-target-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-all-target-headers.hmap -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-project-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/libxml2 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources/i386 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources -F/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator -include /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch -MMD -MT dependencies -MF /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoginViewController.d --serialize-diagnostics /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoginViewController.dia -c /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoginViewController.m -o /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/LoginViewController.o36"24E48F5C-6410-4A5F-B569-0AF674AFCB96-
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MBProgressHUD.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MBProgressHUD.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MainViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MessageInputView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageInputView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MessageSoundEffect.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessageSoundEffect.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MessagesViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MessagesViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MoreViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MoreViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MulticastDelegate.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MulticastDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MyBusinessCardViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyBusinessCardViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MyDynamicViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyDynamicViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MyProfileViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MyProfileViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/MySuggestionViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MySuggestionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NSObject+SBJSON.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NSString+MessagesView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSString+MessagesView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NSString+SBJSON.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NSURLAdditions.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSURLAdditions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NewUserViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NewUserViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NoteView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NoteView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/NumberKnowledgeablePersonViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NumberKnowledgeablePersonViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/OpenUDID.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/OpenUDID-master/OpenUDID.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/People.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/People.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/PhraseViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PhraseViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/PhysicalNavigationViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PhysicalNavigationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/QueryViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/QueryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RTImage.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RTImage.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Reachability.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Reachability.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RegisteredUsersViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RegisteredUsersViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ReservationViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ReservationViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/ResidentialIntroducedViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ResidentialIntroducedViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RestaurantViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RestaurantViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389072951.199923
+e389072951.480168
+r1
+xCompileC
+xbuild/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RestaurantViewController.o
+x/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RestaurantViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RestaurantViewController.mc9713337c830b741^56f57a37c830b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RestaurantViewController.m0000000000000000^3579"CompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RestaurantViewController.o TelecomProperty/RestaurantViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-generated-files.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-own-target-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-all-target-headers.hmap -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-project-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/libxml2 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources/i386 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources -F/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator -include /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch -MMD -MT dependencies -MF /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RestaurantViewController.d --serialize-diagnostics /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RestaurantViewController.dia -c /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/RestaurantViewController.m -o /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/RestaurantViewController.o36"0E19515E-F478-4E99-9FC8-B5398E3992E7-
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SBJSON.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SBJsonBase.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SBJsonParser.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SBJsonWriter.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SDImageCache.o /Users/hh/Desktop/TelecomProperty-1-2/SDImageCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SDWebImageDownloader.o /Users/hh/Desktop/TelecomProperty-1-2/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SDWebImageManager.o /Users/hh/Desktop/TelecomProperty-1-2/SDWebImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SZJsonParser.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SZJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SearthViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SearthViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Section.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Section.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/SectionABC.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SectionABC.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/String.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/String.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewCell.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389072951.199520
+e389072951.480244
+r1
+xCompileC
+xbuild/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewCell.o
+x/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewCell.m5c543337c830b741^0af77a37c830b741^---0#0#0#-19%DVTDocumentLocation2@86"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewCell.m0000000000000000^3519"CompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewCell.o TelecomProperty/UIGridViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-generated-files.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-own-target-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-all-target-headers.hmap -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-project-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/libxml2 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources/i386 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources -F/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator -include /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch -MMD -MT dependencies -MF /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewCell.d --serialize-diagnostics /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewCell.dia -c /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewCell.m -o /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewCell.o36"3C78D952-DDEE-400B-A4F1-A4D089E5AE69-
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIGridViewRow.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIGridViewRow.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIImageView+WebCache.o /Users/hh/Desktop/TelecomProperty-1-2/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UIView+AnimationOptionsForCurve.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UIView+AnimationOptionsForCurve.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UrlAddress.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlAddress.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UrlImageButton.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlImageButton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/UrlImageView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/WaterFlowView.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WaterFlowView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/WaterFlowViewCell.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WaterFlowViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/WingToPayViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/WingToPayViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/YellowPagesViewController.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/YellowPagesViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/Zhongwenpaixu.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Zhongwenpaixu.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/main.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389072951.269874
+e389072951.380275
+r0
+xCompileC
+xbuild/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/main.o
+x/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m:12:
+oIn file included from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AppDelegate.h:11:
+o/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformationViewController.h:18:9: fatal error: 'LoadingView.h' file not found
+o#import "LoadingView.h"
+o        ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.ma8354537c830b741^3b016137c830b741^-366"In file included from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m:12:In file included from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AppDelegate.h:11:/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformationViewController.h:18:9: fatal error: 'LoadingView.h' file not found#import "LoadingView.h"        ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@30"'LoadingView.h' file not found-389072951#18446744073709551615#0#2(2@86"In file included from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m:12:-389072951#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m0000000000000000^11#8#11#8#172#0#30"Apple LLVM compiler 4.2 Notice--2@93"In file included from /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AppDelegate.h:11:-389072951#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@83"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AppDelegate.h0000000000000000^10#8#10#8#210#0#30"Apple LLVM compiler 4.2 Notice--2#27"com.apple.dt.IDE.diagnostic3@97"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/InformationViewController.h0000000000000000^17#8#17#8#513#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@76"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m0000000000000000^3459"CompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/main.o TelecomProperty/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-generated-files.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-own-target-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-all-target-headers.hmap -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-project-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/libxml2 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources/i386 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources -F/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator -include /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch -MMD -MT dependencies -MF /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/main.dia -c /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/main.m -o /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/main.o36"5A394F06-6247-460E-AB60-06DC6BA38040-
+
+CCompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/pinyin.o /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/pinyin.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s389072950.620649
+e389072950.848196
+r1
+xCompileC
+xbuild/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/pinyin.o
+x/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/pinyin.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Compile /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/pinyin.cd1039f36c830b741^3e23d936c830b741^---0#0#0#-19%DVTDocumentLocation2@78"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/pinyin.c0000000000000000^3219"CompileC build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/pinyin.o TelecomProperty/pinyin.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-generated-files.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-own-target-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-all-target-headers.hmap -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-project-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/libxml2 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources/i386 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources -F/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator -include /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch -MMD -MT dependencies -MF /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/pinyin.d --serialize-diagnostics /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/pinyin.dia -c /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/pinyin.c -o /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/Objects-normal/i386/pinyin.o36"C22E1BD7-BBDB-4F76-8EF2-0B3125DD7A90-
+
+CCompileXIB /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell.xib
+r0
+
+CCompileXIB /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell1.xib
+r0
+
+CCompileXIB /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Cell2.xib
+r0
+
+CCompileXIB /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ChatCustomCell.xib
+r0
+
+CCompileXIB /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PhraseViewController.xib
+r0
+
+CCopyPlistFile /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Notification.plist TelecomProperty/Notification.plist
+r0
+
+CCopyStringsFile /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/en.lproj/InfoPlist.strings TelecomProperty/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/zh-Hans.lproj/InfoPlist.strings TelecomProperty/zh-Hans.lproj/InfoPlist.strings
+r0
+
+CCpResource Default-568h@2x.png build/Debug-iphonesimulator/TelecomProperty.app/Default-568h@2x.png
+r0
+
+CCpResource Default.png build/Debug-iphonesimulator/TelecomProperty.app/Default.png
+r0
+
+CCpResource Icon.png build/Debug-iphonesimulator/TelecomProperty.app/Icon.png
+r0
+
+CCpResource TelecomProperty/Default-568h@2x11.png build/Debug-iphonesimulator/TelecomProperty.app/Default-568h@2x11.png
+r0
+
+CCpResource TelecomProperty/Default@2x.png build/Debug-iphonesimulator/TelecomProperty.app/Default@2x.png
+r0
+
+CCpResource TelecomProperty/DownAccessory1.png build/Debug-iphonesimulator/TelecomProperty.app/DownAccessory1.png
+r0
+
+CCpResource TelecomProperty/MessageEntryBackground.png build/Debug-iphonesimulator/TelecomProperty.app/MessageEntryBackground.png
+r0
+
+CCpResource TelecomProperty/MessageEntryBackground@2x.png build/Debug-iphonesimulator/TelecomProperty.app/MessageEntryBackground@2x.png
+r0
+
+CCpResource TelecomProperty/MessageEntryInputField.png build/Debug-iphonesimulator/TelecomProperty.app/MessageEntryInputField.png
+r0
+
+CCpResource TelecomProperty/MessageEntryInputField@2x.png build/Debug-iphonesimulator/TelecomProperty.app/MessageEntryInputField@2x.png
+r0
+
+CCpResource TelecomProperty/MessageEntrySendButton.png build/Debug-iphonesimulator/TelecomProperty.app/MessageEntrySendButton.png
+r0
+
+CCpResource TelecomProperty/MessageEntrySendButton@2x.png build/Debug-iphonesimulator/TelecomProperty.app/MessageEntrySendButton@2x.png
+r0
+
+CCpResource TelecomProperty/MessageEntrySendButtonPressed.png build/Debug-iphonesimulator/TelecomProperty.app/MessageEntrySendButtonPressed.png
+r0
+
+CCpResource TelecomProperty/MessageEntrySendButtonPressed@2x.png build/Debug-iphonesimulator/TelecomProperty.app/MessageEntrySendButtonPressed@2x.png
+r0
+
+CCpResource TelecomProperty/OpenUDID-master/README.md build/Debug-iphonesimulator/TelecomProperty.app/README.md
+r0
+
+CCpResource TelecomProperty/Resources/Images/input-bar.png build/Debug-iphonesimulator/TelecomProperty.app/input-bar.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/input-bar@2x.png build/Debug-iphonesimulator/TelecomProperty.app/input-bar@2x.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/input-field.png build/Debug-iphonesimulator/TelecomProperty.app/input-field.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/input-field@2x.png build/Debug-iphonesimulator/TelecomProperty.app/input-field@2x.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/messageBubbleBlue.png build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleBlue.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/messageBubbleBlue@2x.png build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleBlue@2x.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/messageBubbleGray.png build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleGray.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/messageBubbleGray@2x.png build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleGray@2x.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/messageBubbleHighlighted.png build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleHighlighted.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/messageBubbleHighlighted@2x.png build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleHighlighted@2x.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/messageBubbleTyping.png build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleTyping.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/messageBubbleTyping@2x.png build/Debug-iphonesimulator/TelecomProperty.app/messageBubbleTyping@2x.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/send-highlighted.png build/Debug-iphonesimulator/TelecomProperty.app/send-highlighted.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/send-highlighted@2x.png build/Debug-iphonesimulator/TelecomProperty.app/send-highlighted@2x.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/send.png build/Debug-iphonesimulator/TelecomProperty.app/send.png
+r0
+
+CCpResource TelecomProperty/Resources/Images/send@2x.png build/Debug-iphonesimulator/TelecomProperty.app/send@2x.png
+r0
+
+CCpResource TelecomProperty/Resources/Sounds/messageReceived.aiff build/Debug-iphonesimulator/TelecomProperty.app/messageReceived.aiff
+r0
+
+CCpResource TelecomProperty/Resources/Sounds/messageSent.aiff build/Debug-iphonesimulator/TelecomProperty.app/messageSent.aiff
+r0
+
+CCpResource TelecomProperty/UpAccessory1.png build/Debug-iphonesimulator/TelecomProperty.app/UpAccessory1.png
+r0
+
+CCpResource TelecomProperty/blueArrow.png build/Debug-iphonesimulator/TelecomProperty.app/blueArrow.png
+r0
+
+CCpResource TelecomProperty/blueArrow@2x.png build/Debug-iphonesimulator/TelecomProperty.app/blueArrow@2x.png
+r0
+
+CCpResource TelecomProperty/map.png build/Debug-iphonesimulator/TelecomProperty.app/map.png
+r0
+
+CCpResource TelecomProperty/myimage.png build/Debug-iphonesimulator/TelecomProperty.app/myimage.png
+r0
+
+CCpResource TelecomProperty/temp0326/call.png build/Debug-iphonesimulator/TelecomProperty.app/call.png
+r0
+
+CCpResource TelecomProperty/temp0326/gold.jpg build/Debug-iphonesimulator/TelecomProperty.app/gold.jpg
+r0
+
+CCpResource TelecomProperty/temp0326/hb.png build/Debug-iphonesimulator/TelecomProperty.app/hb.png
+r0
+
+CCpResource TelecomProperty/temp0326/nav.png build/Debug-iphonesimulator/TelecomProperty.app/nav.png
+r0
+
+CCpResource TelecomProperty/temp0326/qbi.png build/Debug-iphonesimulator/TelecomProperty.app/qbi.png
+r0
+
+CCpResource TelecomProperty/temp0326/total.png build/Debug-iphonesimulator/TelecomProperty.app/total.png
+r0
+
+CCpResource TelecomProperty/元件/../myadvice.png build/Debug-iphonesimulator/TelecomProperty.app/myadvice.png
+r0
+
+CCpResource TelecomProperty/元件/../mymaterial.png build/Debug-iphonesimulator/TelecomProperty.app/mymaterial.png
+r0
+
+CCpResource TelecomProperty/元件/../mymessage.png build/Debug-iphonesimulator/TelecomProperty.app/mymessage.png
+r0
+
+CCpResource TelecomProperty/元件/../企业黄页.png build/Debug-iphonesimulator/TelecomProperty.app/企业黄页.png
+r0
+
+CCpResource TelecomProperty/元件/../水电煤缴费.png build/Debug-iphonesimulator/TelecomProperty.app/水电煤缴费.png
+r0
+
+CCpResource TelecomProperty/元件/../消息条数.png build/Debug-iphonesimulator/TelecomProperty.app/消息条数.png
+r0
+
+CCpResource TelecomProperty/元件/../车库信息.png build/Debug-iphonesimulator/TelecomProperty.app/车库信息.png
+r0
+
+CCpResource TelecomProperty/元件/DownAccessory.png build/Debug-iphonesimulator/TelecomProperty.app/DownAccessory.png
+r0
+
+CCpResource TelecomProperty/元件/UpAccessory.png build/Debug-iphonesimulator/TelecomProperty.app/UpAccessory.png
+r0
+
+CCpResource TelecomProperty/元件/图标/1-1.png build/Debug-iphonesimulator/TelecomProperty.app/1-1.png
+r0
+
+CCpResource TelecomProperty/元件/图标/1-2.png build/Debug-iphonesimulator/TelecomProperty.app/1-2.png
+r0
+
+CCpResource TelecomProperty/元件/图标/1-3.png build/Debug-iphonesimulator/TelecomProperty.app/1-3.png
+r0
+
+CCpResource TelecomProperty/元件/图标/1-4.png build/Debug-iphonesimulator/TelecomProperty.app/1-4.png
+r0
+
+CCpResource TelecomProperty/元件/图标/1-5.png build/Debug-iphonesimulator/TelecomProperty.app/1-5.png
+r0
+
+CCpResource TelecomProperty/元件/图标/1-6.png build/Debug-iphonesimulator/TelecomProperty.app/1-6.png
+r0
+
+CCpResource TelecomProperty/元件/图标/1-7.png build/Debug-iphonesimulator/TelecomProperty.app/1-7.png
+r0
+
+CCpResource TelecomProperty/元件/图标/select1.png build/Debug-iphonesimulator/TelecomProperty.app/select1.png
+r0
+
+CCpResource TelecomProperty/元件/图标/select2.png build/Debug-iphonesimulator/TelecomProperty.app/select2.png
+r0
+
+CCpResource TelecomProperty/元件/图标/select3.png build/Debug-iphonesimulator/TelecomProperty.app/select3.png
+r0
+
+CCpResource TelecomProperty/元件/图标/select4.png build/Debug-iphonesimulator/TelecomProperty.app/select4.png
+r0
+
+CCpResource TelecomProperty/元件/图标/tabbar1.png build/Debug-iphonesimulator/TelecomProperty.app/tabbar1.png
+r0
+
+CCpResource TelecomProperty/元件/图标/tabbar2.png build/Debug-iphonesimulator/TelecomProperty.app/tabbar2.png
+r0
+
+CCpResource TelecomProperty/元件/图标/tabbar3.png build/Debug-iphonesimulator/TelecomProperty.app/tabbar3.png
+r0
+
+CCpResource TelecomProperty/元件/图标/tabbar4.png build/Debug-iphonesimulator/TelecomProperty.app/tabbar4.png
+r0
+
+CCpResource TelecomProperty/元件/图标/小首页3.png build/Debug-iphonesimulator/TelecomProperty.app/小首页3.png
+r0
+
+CCpResource TelecomProperty/元件/图标/底部图标.fw.png build/Debug-iphonesimulator/TelecomProperty.app/底部图标.fw.png
+r0
+
+CCpResource TelecomProperty/元件/弹出窗顶部.png build/Debug-iphonesimulator/TelecomProperty.app/弹出窗顶部.png
+r0
+
+CCpResource TelecomProperty/元件/按钮右.png build/Debug-iphonesimulator/TelecomProperty.app/按钮右.png
+r0
+
+CCpResource TelecomProperty/元件/按钮左.png build/Debug-iphonesimulator/TelecomProperty.app/按钮左.png
+r0
+
+CCpResource TelecomProperty/元件/注册按钮.9.png build/Debug-iphonesimulator/TelecomProperty.app/注册按钮.9.png
+r0
+
+CCpResource TelecomProperty/元件/消息条数.png build/Debug-iphonesimulator/TelecomProperty.app/消息条数.png
+r0
+
+CCpResource TelecomProperty/元件/走马灯背景.png build/Debug-iphonesimulator/TelecomProperty.app/走马灯背景.png
+r0
+
+CCpResource TelecomProperty/元件/顶部.png build/Debug-iphonesimulator/TelecomProperty.app/顶部.png
+r0
+
+CCpResource TelecomProperty/元件/顶部2.png build/Debug-iphonesimulator/TelecomProperty.app/顶部2.png
+r0
+
+CCpResource TelecomProperty/内线.png build/Debug-iphonesimulator/TelecomProperty.app/内线.png
+r0
+
+CCpResource TelecomProperty/小首页1.png build/Debug-iphonesimulator/TelecomProperty.app/小首页1.png
+r0
+
+CCpResource TelecomProperty/小首页2.png build/Debug-iphonesimulator/TelecomProperty.app/小首页2.png
+r0
+
+CCpResource TelecomProperty/小首页34444.png build/Debug-iphonesimulator/TelecomProperty.app/小首页34444.png
+r0
+
+CCpResource TelecomProperty/小首页4.png build/Debug-iphonesimulator/TelecomProperty.app/小首页4.png
+r0
+
+CCpResource TelecomProperty/底条.png build/Debug-iphonesimulator/TelecomProperty.app/底条.png
+r0
+
+CCpResource TelecomProperty/按下1.png build/Debug-iphonesimulator/TelecomProperty.app/按下1.png
+r0
+
+CCpResource TelecomProperty/注册按钮.png build/Debug-iphonesimulator/TelecomProperty.app/注册按钮.png
+r0
+
+CCpResource TelecomProperty/线加圆/btn_on.png build/Debug-iphonesimulator/TelecomProperty.app/btn_on.png
+r0
+
+CCpResource btn_check_off.png build/Debug-iphonesimulator/TelecomProperty.app/btn_check_off.png
+r0
+
+CCpResource btn_check_off_pressed.png build/Debug-iphonesimulator/TelecomProperty.app/btn_check_off_pressed.png
+r0
+
+CCpResource btn_check_on.png build/Debug-iphonesimulator/TelecomProperty.app/btn_check_on.png
+r0
+
+CCpResource default_picture.png build/Debug-iphonesimulator/TelecomProperty.app/default_picture.png
+r0
+
+CCpResource deng.png build/Debug-iphonesimulator/TelecomProperty.app/deng.png
+r0
+
+CCpResource fu.png build/Debug-iphonesimulator/TelecomProperty.app/fu.png
+r0
+
+CCpResource jianpan.png build/Debug-iphonesimulator/TelecomProperty.app/jianpan.png
+r0
+
+CCpResource liu.png build/Debug-iphonesimulator/TelecomProperty.app/liu.png
+r0
+
+CCpResource login.png build/Debug-iphonesimulator/TelecomProperty.app/login.png
+r0
+
+CCpResource 意见输入框.png build/Debug-iphonesimulator/TelecomProperty.app/意见输入框.png
+r0
+
+CCpResource 我的小区精简版1.png build/Debug-iphonesimulator/TelecomProperty.app/我的小区精简版1.png
+r0
+
+CCpResource 登陆界面板块/backlogin.png build/Debug-iphonesimulator/TelecomProperty.app/backlogin.png
+r0
+
+CCpResource 登陆界面板块/top.png build/Debug-iphonesimulator/TelecomProperty.app/top.png
+r0
+
+CCpResource 登陆界面板块/号码.png build/Debug-iphonesimulator/TelecomProperty.app/号码.png
+r0
+
+CCpResource 登陆界面板块/登陆.png build/Debug-iphonesimulator/TelecomProperty.app/登陆.png
+r0
+
+CCpResource 登陆界面板块/绿色横条.png build/Debug-iphonesimulator/TelecomProperty.app/绿色横条.png
+r0
+
+CCpResource 登陆界面板块/背景图3.png build/Debug-iphonesimulator/TelecomProperty.app/背景图3.png
+r0
+
+CCpResource 登陆界面板块/背景图4.png build/Debug-iphonesimulator/TelecomProperty.app/背景图4.png
+r0
+
+CCpResource 登陆界面板块/背景大图2.png build/Debug-iphonesimulator/TelecomProperty.app/背景大图2.png
+r0
+
+CCpResource 登陆界面板块/背景色预备.png build/Debug-iphonesimulator/TelecomProperty.app/背景色预备.png
+r0
+
+CCpResource 绿色横条1.png build/Debug-iphonesimulator/TelecomProperty.app/绿色横条1.png
+r0
+
+CCpResource 背景图/backimage.png build/Debug-iphonesimulator/TelecomProperty.app/backimage.png
+r0
+
+CCpResource 背景图/tabBar.png build/Debug-iphonesimulator/TelecomProperty.app/tabBar.png
+r0
+
+CGenerateDSYMFile /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app.dSYM /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/TelecomProperty
+r0
+
+CLd /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/TelecomProperty normal i386
+r0
+
+CProcessInfoPlistFile /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Info.plist TelecomProperty/TelecomProperty-Info.plist
+s389072950.348432
+e389072950.352461
+r1
+xProcessInfoPlistFile
+x/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Info.plist
+xTelecomProperty/TelecomProperty-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Process TelecomProperty/TelecomProperty-Info.plist944d5936c830b741^6d3a5a36c830b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/TelecomProperty-Info.plist0000000000000000^703"ProcessInfoPlistFile build/Debug-iphonesimulator/TelecomProperty.app/Info.plist TelecomProperty/TelecomProperty-Info.plist    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TelecomProperty/TelecomProperty-Info.plist -genpkginfo /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app/Info.plist36"447EBFD6-AF29-442A-A26A-52321590932C-
+
+CProcessPCH /Users/hh/Library/Developer/Xcode/DerivedData/TelecomProperty-dhzevostynxuwcezddqyyeqcffte/Index/PrecompiledHeaders/TelecomProperty-Prefix-eeyilfguouqwgjcqkjrabjdhxgef_ast/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/hh/Library/Developer/Xcode/DerivedData/TelecomProperty-dhzevostynxuwcezddqyyeqcffte/Index/PrecompiledHeaders/TelecomProperty-Prefix-gfkhwkwxogseutaxmiwycvkksqff_ast/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/hh/Library/Developer/Xcode/DerivedData/TelecomProperty-dhzevostynxuwcezddqyyeqcffte/Index/PrecompiledHeaders/TelecomProperty-Prefix-gpdkkltikhwoligpeyyjxnpmnnzw_ast/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s389072950.361869
+e389072950.613979
+r1
+xProcessPCH
+x/var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch.pth
+xTelecomProperty/TelecomProperty-Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile TelecomProperty/TelecomProperty-Prefix.pchf7e55c36c830b741^bf2c9d36c830b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/TelecomProperty-Prefix.pch0000000000000000^3268"ProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -mios-simulator-version-min=5.0 -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-generated-files.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-own-target-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-all-target-headers.hmap -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-project-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/libxml2 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources/i386 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources -F/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch.dia -c /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/TelecomProperty-Prefix.pch -o /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-drdxwlqvkevboueecjvghardewwl/TelecomProperty-Prefix.pch.d36"F40215CA-6824-4C95-9412-962BC264C67A-
+
+CProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-emxxhltrshzsiugsxlifcenfntgo/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389072950.361861
+e389072951.268108
+r1
+xProcessPCH
+x/var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-emxxhltrshzsiugsxlifcenfntgo/TelecomProperty-Prefix.pch.pth
+xTelecomProperty/TelecomProperty-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile TelecomProperty/TelecomProperty-Prefix.pch3ae65c36c830b741^a9a24437c830b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/TelecomProperty-Prefix.pch0000000000000000^3534"ProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-emxxhltrshzsiugsxlifcenfntgo/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-generated-files.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-own-target-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-all-target-headers.hmap -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-project-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/libxml2 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources/i386 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources -F/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator -fno-objc-arc --serialize-diagnostics /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-emxxhltrshzsiugsxlifcenfntgo/TelecomProperty-Prefix.pch.dia -c /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/TelecomProperty-Prefix.pch -o /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-emxxhltrshzsiugsxlifcenfntgo/TelecomProperty-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-emxxhltrshzsiugsxlifcenfntgo/TelecomProperty-Prefix.pch.d36"7BA7E144-1F4F-4ADC-A837-3C28A2F946C3-
+
+CProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s389072950.361856
+e389072951.192389
+r1
+xProcessPCH
+x/var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch.pth
+xTelecomProperty/TelecomProperty-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection53"Precompile TelecomProperty/TelecomProperty-Prefix.pch4be65c36c830b741^4e423137c830b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/TelecomProperty-Prefix.pch0000000000000000^3520"ProcessPCH /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch.pth TelecomProperty/TelecomProperty-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hh/Desktop/TelecomProperty-1-2    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=5.0 -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-generated-files.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-own-target-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-all-target-headers.hmap -iquote /Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/TelecomProperty-project-headers.hmap -I/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/libxml2 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources/i386 -I/Users/hh/Desktop/TelecomProperty-1-2/build/TelecomProperty.build/Debug-iphonesimulator/TelecomProperty.build/DerivedSources -F/Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch.dia -c /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/TelecomProperty-Prefix.pch -o /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/n9/2pfnd1pd7cqc72fk9k3yggkh0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/TelecomProperty-Prefix-ftwfqoozmdtqsddfdwrgbzsfuhqf/TelecomProperty-Prefix.pch.d36"844CA0D2-7A62-4901-84AE-271C3FFAB1FB-
+
+CTouch /Users/hh/Desktop/TelecomProperty-1-2/build/Debug-iphonesimulator/TelecomProperty.app
+r0
+

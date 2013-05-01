@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/FirstViewController.m \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/FirstViewController.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/HeadView.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DetailViewController.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/Announcements.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/LoadMoreTableFooterView.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/EGORefreshTableHeaderView.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/UrlAddress.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/PassValueDelegate.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/DDList.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/AsyncImageView.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageManager.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/ImageCache.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/MulticastDelegate.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/JSON.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJSON.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonParser.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonBase.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/SBJsonWriter.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSObject+SBJSON.h \
+  /Users/hh/Desktop/TelecomProperty-1-2/TelecomProperty/NSString+SBJSON.h
